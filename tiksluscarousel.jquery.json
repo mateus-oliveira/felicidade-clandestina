@@ -1,0 +1,47 @@
+{
+  "name": "tiksluscarousel",
+  "title": "Jquery fully responsive Carousel/slider with thumbnails,progress bar,Navigation icons,pause/resume and full screen support",
+  "version": "2.0.1",
+  "description": "A fully responsive jquery carsousel and rotater with css3 animations,thumbnails,Nav Icons,Progress bar and Pause/resume support.",
+  "homepage": "http://tikslus.com/plugins/free#tiksluscarousel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pushpendra10/tiksluscarousel.git"
+  },
+  "keywords": [
+    "responsive",
+    "jQuery",
+    "Mobile",
+    "carousel",
+    "javascript",
+    "slider",
+    "css3",
+	"animation",
+    "image",
+	"rotater",
+    "banner",
+	"thumbnails",
+	"progressbar",
+	"resume",
+	"pause",
+	"navigation",
+	"icons"
+  ],
+  "author": {
+    "name": "Pushpendra Singh Chouhan",
+    "email": "pushpendra.as400@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pushpendra10/tiksluscarousel/blob/master/mit-license.txt"
+    }
+  ],
+  "bugs": "https://github.com/pushpendra10/tiksluscarousel/issues",
+  "download": "http://tikslus.com/web/bundles/tikslustikslus/downloads/tiksluscarousel.zip",
+  "demo" : "http://tikslus.com/tiksluscarousel/demo",
+  "docs" : "http://tikslus.com/tiksluscarousel/docs",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
